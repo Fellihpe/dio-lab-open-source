@@ -1,7 +1,7 @@
 ## FELLIHPE
 ## MEU PERFIL
 Desenvolvedor, graduando em Análise e Desenvolvimento de Sistemas e em Ciência da Computação.
-Apaixonado por artes e tecnologia, alguns dos meus hobbies são jogos, assistir, ler
+
 ## CONECTE-SE COMIGO
 [![Dio](https://hermes.digitalinnovation.one/assets/diome/logo-full.svg)](https://www.dio.me/users/hugofelipesr)
 
