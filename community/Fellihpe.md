@@ -1,6 +1,6 @@
 ## FELLIHPE
 ## MEU PERFIL
-Desenvolvedor, graduando em Análise e Desenvolvimento de Sistemas e em Ciência da Computação.
+Desenvolvedor iniciante, graduando em Análise e Desenvolvimento de Sistemas e em Ciência da Computação.
 
 ## CONECTE-SE COMIGO
 [![Dio](https://hermes.digitalinnovation.one/assets/diome/logo-full.svg)](https://www.dio.me/users/hugofelipesr)
